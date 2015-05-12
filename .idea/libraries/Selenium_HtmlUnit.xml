@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Selenium+HtmlUnit">
+    <CLASSES>
+      <root url="file://E:/VIT/LIB/Selenium+HtmlUnit" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/VIT/LIB/Selenium+HtmlUnit" />
+    </SOURCES>
+    <jarDirectory url="file://E:/VIT/LIB/Selenium+HtmlUnit" recursive="false" />
+    <jarDirectory url="file://E:/VIT/LIB/Selenium+HtmlUnit" recursive="false" type="SOURCES" />
+  </library>
+</component>
